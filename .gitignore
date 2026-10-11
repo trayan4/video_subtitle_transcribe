@@ -1,0 +1,8 @@
+.env
+.ipynb_checkpoints/
+__pycache__/
+coding_2/
+*.mkv
+*.webm
+*.mp4
+transcription*.txt
